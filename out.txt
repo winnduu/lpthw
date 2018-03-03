@@ -1,0 +1,4 @@
+testtext zum übertragen ins neue File.
+mehrzeilig
+
+mitfreierzeiledazwische
